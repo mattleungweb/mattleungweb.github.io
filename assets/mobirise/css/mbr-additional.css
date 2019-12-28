@@ -22,3 +22,36 @@
 #ext_menu-2 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-7 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-7 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box1-h .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-h .mbr-article {
+  color: #fff;
+}
+#footer1-8 P {
+  text-align: left;
+}
